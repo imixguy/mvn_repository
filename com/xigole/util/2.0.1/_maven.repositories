@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
 #Tue Oct 24 23:31:12 EET 2017
-webmytest-1.0.0.pom>=
-webmytest-1.0.0.war>=
+javacsv.jar>=
+jisql-2.0.11.jar>=
+jopt-simple-3.2.jar>=
+
