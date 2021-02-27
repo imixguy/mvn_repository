@@ -1,5 +1,7 @@
 # mvn_repository
 
+Позволяет хранить в гите версии библиотек, чтобы не использовать для этого мавен репозиторий
+
 #1 add repository to pom.xml 
 ```xml
 <repositories>
