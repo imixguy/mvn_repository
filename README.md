@@ -7,7 +7,7 @@
 <repositories>
         <repository>
             <id>mvn-repository</id>
-            <url>https://github.com/imixguy/mvn_repository/raw/master</url>
+            <url>https://raw.githubusercontent.com/imixguy/mvn_repository/master/</url>
         </repository>
 </repositories>
 ```
